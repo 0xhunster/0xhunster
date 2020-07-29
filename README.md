@@ -1,5 +1,4 @@
-### Hi there 👋
-<h2> I'm Akash Sarkar! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
+<h2> Hi there 👋 I'm Akash Sarkar! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
 
 ![Dipak's github stats](https://github-readme-stats.vercel.app/api?username=Akash0x01)
 
@@ -12,6 +11,6 @@
 <a href="https://www.facebook.com/Akash0x01"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a></div>
 ---
 
-⭐️ From [@d1pakda5](https://github.com/Akash0x01)
+⭐️ From [@Akash0x01](https://github.com/Akash0x01)
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Akash0x01)
