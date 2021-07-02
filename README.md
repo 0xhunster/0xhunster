@@ -8,7 +8,7 @@
   <code>
     <a href="https://www.linkedin.com/in/0xakashsec/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/0xAkashsec/0xAkashsec/blob/main/img/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://twitter.com/0xAkashsec" title="Twitter Profile"><img height="22" width="22" src="https://github.com/0xAkashsec/0xAkashsec/blob/main/img/twitter.png"> Twitter</a></code>
-  <code><a href="https://www.instagram.com/0xAkashsec" title="Instagram Profile"><img height="22" width="22" src="https://github.com/0xAkashsec/0xAkashsec/blob/main/img/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/0xAkashsec" title="Instagram Profile"><img height="22" width="22" src="https://github.com/0xAkashsec/0xAkashsec/blob/master/img/instagram.svg"> Instagram</a></code>
   <code><a href="https://www.twitch.tv/akashsec"><img alt="Twitch" title="Twitch" height="22" width="22" src="https://github.com/0xAkashsec/0xAkashsec/blob/main/img/twitch.png"> Twitch</a></code>
   <code><a href="https://www.youtube.com/channel/UCi2ga4GJtJL1n-rsQP5dXBA"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/0xAkashsec/0xAkashsec/blob/main/img/youtube.png"> YouTube</a></code>
 </h5>
