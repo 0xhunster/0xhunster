@@ -1,16 +1,64 @@
-<h2> Hi there 👋 I'm Akash Sarkar! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!%20How%20you%20doin'?&center=true&size=30">
+  </a>
+</h1>
 
-![Dipak's github stats](https://github-readme-stats.vercel.app/api?username=Akash0x01)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Lets Get Social</em>
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/0xakashsec/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://twitter.com/0xAkashsec" title="Twitter Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitter.svg"> Twitter</a></code>
+  <code><a href="https://www.instagram.com/0xAkashsec" title="Instagram Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.twitch.tv/akashsec"><img alt="Twitch" title="Twitch" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitch.svg"> Twitch</a></code>
+  <code><a href="https://www.youtube.com/channel/UCi2ga4GJtJL1n-rsQP5dXBA"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/youtube.svg"> YouTube</a></code>
+</h5>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Dheerajmadhukar&show_icons=true&theme=dark" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Dheerajmadhukar&theme=dark&hide_border=true" width = 400>
+</p>
+<!--
 <p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Dheerajmadhukar&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <img align="right" width="490" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Dheerajmadhukar&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <p>
 
-<a href="mailto:akashcse57@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akashcse57@gmail.com" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/Akash0x01/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/Akash0x01/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/Akash0x01"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a></div>
----
+**Dheerajmadhukar/Dheerajmadhukar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-⭐️ From [@Akash0x01](https://github.com/Akash0x01)
+Here are some ideas to get you started:
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Akash0x01)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<a href="https://github.com/Dheerajmadhukar/Lilly" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=Lilly&theme=dracula" />
+</a>
+<a href="https://github.com/Dheerajmadhukar/subzzZ" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=subzzZ&theme=dracula" />
+</a>
+<a href="https://github.com/Dheerajmadhukar/GitApp" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=GitApp&theme=dracula" />
+</a>
+<a href="https://github.com/Dheerajmadhukar/4-ZERO-3" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=4-ZERO-3&theme=dracula" />
+</a>
+<a href="https://github.com/Dheerajmadhukar/back-me-up" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=BB-Hunt-A-Day&theme=dracula" />
+</a>
+<a href="https://github.com/Dheerajmadhukar/BB-Hunt-A-Day" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=BB-Hunt-A-Day&theme=dracula" />
+</a>
+<a href="https://github.com/Dheerajmadhukar/fdns" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=fdns&theme=dracula" />
+</a>
+-->
+<div align="center">
+
+### Show ❤️ by staring some of the repositories!
+</div>
