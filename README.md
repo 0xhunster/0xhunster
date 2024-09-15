@@ -21,6 +21,9 @@
   <img src = "https://github.com/0xhunster/0xhunster/blob/master/img/ani.gif" width = 600>
 </p>
 
+### Hacktoberfest 2022 & 2023
+[![An image of @0xhunster's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0xhunster)](https://holopin.io/@0xhunster)
+
 <div align="center">
 
 ### Show ❤️ by staring some of the repositories!
